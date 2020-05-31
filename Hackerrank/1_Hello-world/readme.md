@@ -7,14 +7,14 @@ my_string = "Hello, World!"
 print(my_string)
 The above code will print Hello, World! on your screen. Try it yourself in the editor below!
 
-Input Format
+**Input Format**
 
 You do not need to read any input in this challenge.
 
-Output Format
+**Output Format**
 
 Print Hello, World! to stdout.
 
-Sample Output 0
+**Sample Output 0**
 
 Hello, World!
