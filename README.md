@@ -1,1 +1,3 @@
-# Python_exercises
+# Collection of Python exercises
+- Exercism
+- HackerRank
