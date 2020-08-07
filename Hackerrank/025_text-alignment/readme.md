@@ -55,7 +55,7 @@ Output the desired logo.
 5
 
 **Sample Output**
-
+```
     H    
    HHH   
   HHHHH  
@@ -81,3 +81,4 @@ HHHHHHHHH
                       HHHHH   
                        HHH    
                         H 
+```
